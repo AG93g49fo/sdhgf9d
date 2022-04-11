@@ -7,6 +7,7 @@ local player = {
   "3414702279"
 }
 userid2 = tostring(game.Players.LocalPlayer.UserId)
+local bindKey = keyBind
 coolio = true
 for i,v in pairs(player) do
     if v == userid2 then 
