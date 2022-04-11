@@ -6,7 +6,6 @@ local player = {
   "4264",
   "3414702279"
 }
-bindKey = keyBind:upper()
 userid2 = tostring(game.Players.LocalPlayer.UserId)
 coolio = true
 for i,v in pairs(player) do
