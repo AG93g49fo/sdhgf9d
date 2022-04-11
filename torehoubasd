@@ -1,8 +1,3 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
-
 local MainFREE = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
 local Top = Instance.new("Frame")
@@ -89,7 +84,7 @@ local v2 = Instance.new("TextLabel")
 --Properties:
 
 MainFREE.Name = "Main[FREE]"
-MainFREE.Parent = game.Workspace
+MainFREE.Parent = game.CoreGui
 MainFREE.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Main.Name = "Main"
