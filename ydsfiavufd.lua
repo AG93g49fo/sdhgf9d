@@ -2861,7 +2861,5 @@ for i,v in pairs(player) do
 			end
 		end
 	end
-en,
-  "170926359",
-  "359259228"
+end
 
