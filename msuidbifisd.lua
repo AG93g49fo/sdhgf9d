@@ -1760,7 +1760,7 @@ local function QNMHT_fake_script() -- MainBackground.lock
 	local CC = game:GetService'Workspace'.CurrentCamera
 	local Plr
 	local enabled = false
-	local accomidationfactor = 0.130146255
+	local accomidationfactor = 0.130153755
 	local mouse = game.Players.LocalPlayer:GetMouse()
 	local placemarker = Instance.new("Part", game.Workspace)
 	placemarker.Name = "IAMLOCKING"
