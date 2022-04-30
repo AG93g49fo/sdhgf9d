@@ -549,7 +549,7 @@ for i,v in pairs(player) do
         			wait(2.5)
         			script.Parent.Parent.Main.Backkground1.Background.DHC.Text = ("ty for buying!")
         			wait(2.5)
-        			script.Parent.Parent.Main.Backkground1.Background.DHC.Text = ("vinlock")
+        			script.Parent.Parent.Main.Backkground1.Background.DHC.Text = ("blu")
         		end
         	end
         	coroutine.wrap(YPOH_fake_script)()
